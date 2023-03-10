@@ -1,2 +1,2 @@
-# config surfboard manial
+# config surfboard manual 
 Baru belajar 
