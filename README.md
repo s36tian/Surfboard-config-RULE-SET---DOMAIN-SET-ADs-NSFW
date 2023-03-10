@@ -1,2 +1,2 @@
 # config surfboard manial
-Baru belaja
+Baru belajar 
