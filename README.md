@@ -1,2 +1,2 @@
-# config surfboard manual 
+# Surfboard VPN
 Baru belajar 
